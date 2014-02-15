@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Translated using Transifex web application. For support, or if you would like to to help out, please visit your language team! -->
+<!-- English language-Team URL: http://www.transifex.com/projects/p/XBMC-Main-Frodo/language/en/ -->
+<!-- Report language file syntax bugs at: http://trac.xbmc.org/ -->
+
+<strings>
+    <string id="30200">Server</string>
+    <string id="30201">Host</string>
+    <string id="30202">Port</string>
+    <string id="30203">Mix Settings</string>
+    <string id="30204">Artist Style</string>
+    <string id="30205">Variety</string>
+    <string id="30206">Mix Size</string>
+    <string id="30207"></string>
+    <string id="30208">No Duplicates Within</string>
+    <string id="30210">Tracks</string>
+    <string id="30211">Minutes</string>
+    <string id="30212">MB</string>
+</strings>

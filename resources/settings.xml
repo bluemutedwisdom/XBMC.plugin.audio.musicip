@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+
+  <!-- Server -->
+  <category label="30200">
+    <setting label="30201" id="host" type="ipaddress" default="" />
+    <setting label="30202" id="port" type="number" default="10002" />
+  </category>
+
+  <!-- Mix Settings -->
+  <category label="30203">
+    <setting label="30204" id="style" type="slider" range="0,1,200" default="20" option="int"/>
+    <setting label="30205" id="variety" type="slider" range="0,1,9" default="0" option="int"/>
+    <setting type="sep" />
+    <setting label="30206" id="size" type="number" default="12" />   
+    <setting label="30207" id="type" type="enum" lvalues="30210|30211|30212" default="0" subsetting="true"/>  
+    <setting type="sep" />
+    <setting label="30208" id="dupsize" type="number" default="3" />
+    <setting label="30207" id="duptype" type="enum" lvalues="30210|30211|30212" default="0"  subsetting="true"/> 
+  </category>
+
+</settings>
