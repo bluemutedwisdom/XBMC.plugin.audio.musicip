@@ -11,10 +11,10 @@
     <summary lang="en">MusicIP plugin</summary>
     <description lang="en">Plugin that allows interaction with your MusicIP server. MusicIP analyses your music collection and generates an &quot;acoustic fingerprint&quot; of each song. This information is then used to generate a personal playlist of similar tracks based on a selected track, artist or album.</description>
     <platform>all</platform>
-    <website>www.xbmc.org</website>
-    <source>https://github.com/pernod/plugin.audio.musicip</source>
-    <email>pernod@xbmc.org</email>
-    <forum>http://forum.xbmc.org/showthread.php?tid=112150</forum>
+    <website></website>
+    <source>https://github.com/Pernod70/plugin.audio.musicip</source>
+    <email></email>
+    <forum></forum>
     <license>GPL v2.0</license>
   </extension>
 </addon>
